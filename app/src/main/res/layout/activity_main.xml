@@ -14,7 +14,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Animalia"
+        android:text="@string/judul_main"
         android:textStyle="bold"
         android:textColor="@color/white"
         android:textSize="29sp"
@@ -63,7 +63,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="(press image to open gallery)"
+        android:text="@string/notif"
         android:textColor="@color/white"
         android:textStyle="italic"
         android:layout_marginBottom="32dp"

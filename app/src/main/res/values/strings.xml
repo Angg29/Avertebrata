@@ -1,3 +1,67 @@
 <resources>
     <string name="app_name">Animalia</string>
+    //data hewan
+    <string name="Anggora_name">Anggora</string>
+    <string name="Anggora_asal">Turki</string>
+    <string name="Anggora_deskripsi">Aslinya berasal dari Ankara, Turki dengan ciri khas berbulu panjang dan lembut</string>
+    <string name="Bengal_name">Bengal</string>
+    <string name="Bengal_asal">Inggris</string>
+    <string name="Bengal_deskripsi">Merupakan hasil persilangan antara Kucing Leopard Asia dengan kucing domestik Inggris</string>
+    <string name="Birmani_name">Birmani</string>
+    <string name="Birmani_asal">Burma/Myanmar</string>
+    <string name="Birmani_deskripsi">Konon awalnya merupakan ras kucing yand biasa menemani para biksu yang menetap pada kuil di Birma</string>
+    <string name="Persia_name">Persia</string>
+    <string name="Persia_asal">Iran</string>
+    <string name="Persia_deskripsi">Kucing berbulu panjang dengan wajah bundar dan hidung pesek. Awalnya berasal dari Iran kemudian diimpor ke Italia</string>
+    <string name="Siam_name">Siam</string>
+    <string name="Siam_asal">Thailand</string>
+    <string name="Siam_deskripsi">Kucing hasil turunan dari Wichian Maat (Kucing Thailand) dengan ciri khas berbadan panjang dan langsing, wajah lonjong, telinga lebar, dan mata kebiruan</string>
+    <string name="Siberia_name">Siberia</string>
+    <string name="Siberia_asal">Rusia</string>
+    <string name="Siberia_deskripsi">Kucing domestik Rusia dengan bulu lebat dan badan besar tapi sangat lincah dan terkenal dengan kemampuan melompatnya </string>
+    <string name="Anjing_name">Buldog</string>
+    <string name="Anjing_asal">Inggris</string>
+    <string name="Anjing_deskripsi">Anjing populer yang dikenal dengan badan yang gemuk berotot, wajah seperti kain kusut, dan hidung yang pesek</string>
+    <string name="Hunsky_name">Hunsky</string>
+    <string name="Hunsky_asal">Alaska,Siberia,Finlandia (daerah bersalju</string>
+    <string name="Hunsky_deskripsi">Anjing jenis khusus yang awalnya digunakan untuk menarik kereta salju</string>
+    <string name="Kintamani_name">Kintamani</string>
+    <string name="Kintamani_asal">Indonesia</string>
+    <string name="Kintamani_deskripsi">Ras anjing asli pulau Bali</string>
+    <string name="Samoyed_name">Samoyed</string>
+    <string name="Samoyed_asal">Rusia</string>
+    <string name="Samoyed_deskripsi">Anjing yang berasal dari Siberia yang awalnya biasa digunakan untuk menjaga ternak oleh suku Samoyed</string>
+    <string name="Shepherd_name">Shepherd</string>
+    <string name="Shepherd_asal">Jerman</string>
+    <string name="Shepherd_deskripsi">Anjing pintar dan kuat, sekarang banyak digunakan sebagai anjing penjaga, pengawal, dan anjing polisi (K9)</string>
+    <string name="Shiba_name">Shiba</string>
+    <string name="Shiba_asal">Jepang</string>
+    <string name="Shiba_deskripsi">Anjing dari daerah Shiba ini gesit dan lincah sehingga awalnya banyak digunakan untuk berburu</string>
+    <string name="Pigmy_name">Pigmy Marmoset</string>
+    <string name="Pigmy_asal">Hutan Hujan Amazon</string>
+    <string name="Pigmy_deskripsi">merupakan jenis monyet terkecil di dunia, yang mempunyai warna bulu yang keemasan. Monyet ini sangat suka memakan cairan batang kayu</string>
+    <string name="Emperor_name">Emperor Tamarin</string>
+    <string name="Emperor_asal">Amazon</string>
+    <string name="Emperor_deskripsi">Konon katanya, monyet ini di sebut Emperor Tamarin karena mukanya yang mirip dengan Kaisar Jerman Wilhelm II</string>
+    <string name="Probocis_name">Probocis</string>
+    <string name="Probocis_asal">Kalimantan, Indonesia</string>
+    <string name="Probocis_deskripsi">merupakan monyet terganteng sedunia yang memiliki selaput pada kakinya yang menandakan monyet ini handal dalam hal berenang</string>
+    <string name="Simpanse_name">Simpanse</string>
+    <string name="Simpanse_asal">Hutan dan saban Afrika</string>
+    <string name="Simpanse_deskripsi">merupakan spesies kera besar dan memiliki 99 % DNA yang sama dengan manusia</string>
+
+    //judul
+    <string name="judul_list_Anjing">DAFTAR RAS ANJING</string>
+    <string name="judul_list_Kucing">DAFTAR RAS KUCING</string>
+    <string name="judul_list_Monyet">DAFTAR RAS MONYET</string>
+    <string name="judul_main">ANIMALIA</string>
+
+    //jenis
+    <string name="Jenis_Anjing">Anjing</string>
+    <string name="Jenis_Kucing">Kucing</string>
+    <string name="Jenis_Monyet">Monyet</string>
+
+    //String
+    <string name="notif">Tekan gambar</string>
+
 </resources>

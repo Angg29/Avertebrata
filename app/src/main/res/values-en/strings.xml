@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">Animalia</string>
+    //data hewan
+    <string name="Anggora_name">Angora</string>
+    <string name="Anggora_asal">Turkey</string>
+    <string name="Anggora_deskripsi">Originally from Ankara, Turkey with the characteristic of long and soft hair</string>
+    <string name="Bengal_name">Bengal</string>
+    <string name="Bengal_asal">English</string>
+    <string name="Bengal_deskripsi">Is the result of a cross between an Asian Leopard Cat and a British domestic cat</string>
+    <string name="Birmani_name">Birmani</string>
+    <string name="Birmani_asal">Burma/Myanmar</string>
+    <string name="Birmani_deskripsi">it is said that originally a cat breed that used to accompany the monks who settled in temples in Burma</string>
+    <string name="Persia_name">Persian</string>
+    <string name="Persia_asal">Iran</string>
+    <string name="Persia_deskripsi">A long-haired cat with a round face and a snub nose. Originally from Iran then imported to Italy</string>
+    <string name="Siam_name">Siam</string>
+    <string name="Siam_asal">Thailand</string>
+    <string name="Siam_deskripsi">A cat derived from the Wichian Maat (Thai cat) with a characteristic long and slender body, oval face, wide ears, and bluish eyes</string>
+    <string name="Siberia_name">Siberia</string>
+    <string name="Siberia_asal">Russia</string>
+    <string name="Siberia_deskripsi">Russian domestic cat with thick fur and large body but very agile and famous for its jumping ability</string>
+    <string name="Anjing_name">Bulldog</string>
+    <string name="Anjing_asal">English</string>
+    <string name="Anjing_deskripsi">A popular dog known for its chubby, muscular body, wrinkled face, and snub nose</string>
+    <string name="Hunsky_name">Hunsky</string>
+    <string name="Hunsky_asal">Alaska,Siberia,Finland (snowy areas)</string>
+    <string name="Hunsky_deskripsi">A special breed of dog originally used to pull sleighs</string>
+    <string name="Kintamani_name">Kintamani</string>
+    <string name="Kintamani_asal">Indonesia</string>
+    <string name="Kintamani_deskripsi">as a dog native to the island of Bali</string>
+    <string name="Samoyed_name">Samoyed</string>
+    <string name="Samoyed_asal">Russia</string>
+    <string name="Samoyed_deskripsi">Dogs originating from Siberia that were originally used to guard livestock by the Samoyed tribe</string>
+    <string name="Shepherd_name">Shepherd</string>
+    <string name="Shepherd_asal">German</string>
+    <string name="Shepherd_deskripsi">Smart and strong dog, now widely used as guard dog, bodyguard, and police dog (K9)</string>
+    <string name="Shiba_name">Shiba</string>
+    <string name="Shiba_asal">Japan</string>
+    <string name="Shiba_deskripsi">This dog from the Shiba area is agile and agile so it was originally used a lot for hunting</string>
+    <string name="Pigmy_name">Pygmy Marmosets</string>
+    <string name="Pigmy_asal">Amazon Rainforest</string>
+    <string name="Pigmy_deskripsi">is the smallest type of monkey in the world, which has a golden fur color. This monkey really likes to eat wood stick liquid</string>
+    <string name="Emperor_name">Emperor Tamarin</string>
+    <string name="Emperor_asal">Amazon</string>
+    <string name="Emperor_deskripsi">It is said that this monkey is called the Emperor Tamarin because his face is similar to the German Emperor Wilhelm II</string>
+    <string name="Probocis_name">Probocis</string>
+    <string name="Probocis_asal">Kalimantan, Indonesia</string>
+    <string name="Probocis_deskripsi">is the most handsome monkey in the world that has membranes on its feet which indicate this monkey is reliable in terms of swimming</string>
+    <string name="Simpanse_name">Simpanse</string>
+    <string name="Simpanse_asal">Africa forests and savannas</string>
+    <string name="Simpanse_deskripsi">is a great ape species and has the same 99% DNA asa human</string>
+
+    //judul
+    <string name="judul_list_Anjing">DAFTAR RAS ANJING</string>
+    <string name="judul_list_Kucing">DAFTAR RAS KUCING</string>
+    <string name="judul_list_Monyet">DAFTAR RAS MONYET</string>
+    <string name="judul_main">ANIMALIA</string>
+
+    //jenis
+    <string name="Jenis_Anjing">Anjing</string>
+    <string name="Jenis_Kucing">Kucing</string>
+    <string name="Jenis_Monyet">Monyet</string>
+
+    //String
+    <string name="notif">Tekan gambar</string>
+
+</resources>
